@@ -21,3 +21,9 @@ Progres Belajar Dasar Git dengan Github. ( Progres 81% )
 * Latihan berkolaborasi dengan TIM
 * Latihan berkolaborasi pada public repositories
 * Latihan Revert
+
+**11 agustus 2024**
+Progres Belajar Dasar Git dengan GitHub. ( Progres 100% )
+* Melakukan Studikasus terhadap Readme.md DI Dicoding dan PR ( Pull-Request )
+* membuat potofolio dengan github
+* mempelajari apa itu fork, squashing changes, revert dan code review 
