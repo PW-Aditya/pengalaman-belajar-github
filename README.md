@@ -11,7 +11,13 @@ Progres Belajar Dasar Git dengan Github. ( Progres 56% )
 * mengetahui apa itu marge ( pengabungan )
 
 **8 Agustus 2024**  <br>
-Progres Belajar Dasar Git dengan Github.  ( Progres 64 )
+Progres Belajar Dasar Git dengan Github.  ( Progres 64% )
 * belajar tentang pull request dan konflik request serta menyelesaikan konflik nya
 * belajar mengetahui cara menambahkan kontributor lain ke Project kita
 * mengubah repositories privet ke publik dan sebaliknya dari publik ke privat
+
+**10 Agustus 2024**
+Progres Belajar Dasar Git dengan Github. ( Progres 81% )
+* Latihan berkolaborasi dengan TIM
+* Latihan berkolaborasi pada public repositories
+* Latihan Revert
